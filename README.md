@@ -3,7 +3,7 @@ Final Results
 
 Home Page
 
-![Screenshot (26)](https://github.com/Sumukha87/UserManagment/assets/73688740/eaa6eea1-d6a5-494e-aca9-8ce7347cd8a1)
+![Screenshot (26)](https://github.com/Sumukha87/UserManagment/assets/73688740/f8bcdcfd-973f-4ea4-a105-e1265cc7d671)
 
 User Data Page
 
